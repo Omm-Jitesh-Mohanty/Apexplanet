@@ -30,11 +30,7 @@ inconsistent formatting, and outliers.
 </li>
 </ol>
 
-<h3>Deliverables:</h3>
-<ul>
-<li>GitHub: Data dictionary, cleaning script, cleaned dataset</li>
-<li>LinkedIn Video: 3-5 min walkthrough of data issues and cleaning process</li>
-</ul>
+
 
 <h1> DATASETS LINKS </h1>
 <ul>
