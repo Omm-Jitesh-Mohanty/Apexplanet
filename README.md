@@ -64,12 +64,12 @@ is the monthly user acquisition trend?").
 *The intern will write and execute SQL queries to answer these questions, focusing on filtering, aggregation, and multi-table joins. 
     </li>
     <li>
-3. Multivariate Analysis & Correlation :
+ Multivariate Analysis & Correlation :
 Create advanced visualizations (scatter plots, heatmaps, pair plots) to explore relationships between
 two or more variables (e.g., marketing spend vs. sales, age vs. product category).
     </li>
   <li>
-4. Static Dashboard Mock-up :
+Static Dashboard Mock-up :
 Using the insights from EDA, the intern will create a static mock-up (in PowerPoint/Google Slides or
 Excel) of a key metrics dashboard, proposing the most important KPIs to track.
   </li>
