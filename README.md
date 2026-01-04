@@ -39,3 +39,37 @@ inconsistent formatting, and outliers.
   <li>https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci</li>
   <li>https://www.kaggle.com/datasets/ineubytes/online-retail-ecommerce-dataset</li>
 </ul>
+
+
+<h1>TASK - 2</h1>
+<h2>Exploratory Data Analysis (EDA) & Business Intelligence</h2>
+
+<h3>Objective</h3>
+To uncover patterns, trends, and relationships within the data and develop proficiency in SQL for data extraction and basic dashboarding.
+
+<h3>Steps</h3>
+<ol>
+  <li>
+Descriptive Statistics & Univariate Analysis :
+Calculate and interpret key summary statistics for numerical and categorical fields. Create initial visualizations (histograms, bar charts) to
+understand distributions.
+  </li>
+    <li>
+ SQL for Business Questions :
+*Provide the intern with a list of 5-7 specific business questions (e.g., 
+"What are the top 5 products by revenue in the last 6 months?"
+,
+"What
+is the monthly user acquisition trend?").
+*The intern will write and execute SQL queries to answer these questions, focusing on filtering, aggregation, and multi-table joins. 
+    </li>
+    <li>
+3. Multivariate Analysis & Correlation :
+Create advanced visualizations (scatter plots, heatmaps, pair plots) to explore relationships between
+two or more variables (e.g., marketing spend vs. sales, age vs. product category).
+    </li>
+  <li>
+4. Static Dashboard Mock-up :
+Using the insights from EDA, the intern will create a static mock-up (in PowerPoint/Google Slides or
+Excel) of a key metrics dashboard, proposing the most important KPIs to track.
+  </li>
